@@ -53,6 +53,6 @@ The project taught me more not only about Java but the UI element of programming
 ## Running the Project
 To run the project in your local environment, follow these steps:
 
-1. Clone the repository to your local machine
+1. Install the ZIP file
 2. Find App.Java in JavaFX-Student-Login\demo\src\main\java\com\example
 3. Run the file
