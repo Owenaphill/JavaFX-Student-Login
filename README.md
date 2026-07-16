@@ -30,21 +30,21 @@ Finally, I created two methods for the program to use. The first one is called "
 During the project, I learned some new skills and better improved my own skills, which also helps my creative and critical thinking
 
 ### JavaFX and UI Design
-  * Creative Thinking: Creating a UI taught me how to make a visually appealing way of showing off a program, rather than just running it from the terminal.
+  * **Creative Thinking**: Creating a UI taught me how to make a visually appealing way of showing off a program, rather than just running it from the terminal.
 
 ### Using a text file to fill a combo box
-  * Critical Thinking: Finding new ways to add items to objects, without just going one by one to add them all.
+  * **Critical Thinking**: Finding new ways to add items to objects, without just going one by one to add them all.
 
 ### Data saving with JavaFX
-  * Accuracy: I've become better at using these functions outside of the usual projects I work on, and having to use them for important data saving
+  * **Accuracy**: I've become better at using these functions outside of the usual projects I work on, and having to use them for important data saving
 
 ### Multiple ways to choose data
-  * Exploration: I got to explore more ways to save data and how to logically think about what would work best for what kind of data
+  * **Exploration**: I got to explore more ways to save data and how to logically think about what would work best for what kind of data
 
 ## Overall Growth
 The project taught me more not only about Java but the UI element of programming. It gave me a base idea on creating UIs and ways for users to interact with my work in new ways.
 
-## How can it be improved?
+## How can it be Improved?
 * Looks very bland, need more flair
 * Text is a little big and looks very dark with the background
 * Add more data that it can save such as an ID
