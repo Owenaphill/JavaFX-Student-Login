@@ -26,7 +26,7 @@ Next was the save and reset buttons. When the save button is pressed it will run
 
 Finally, I created two methods for the program to use. The first one is called "loadItemsFromFile" with an argument for a ComboBox. This is to load all of the nationalities for the student nationality selection, without it I would have to singlehandedly add all of them to the Combobox. I also have a method called "saveDataFileWriter" which takes the arguments of everything the user picks and saves it to "records.txt"
 
-## What I learned
+## What I Learned
 During the project, I learned some new skills and better improved my own skills, which also helps my creative and critical thinking
 
 ### JavaFX and UI Design
