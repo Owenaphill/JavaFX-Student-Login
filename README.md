@@ -7,7 +7,7 @@ A login UI screen made with Java and JavaFX. I built this as a final project for
 
 ## Features
 What the program does is
-  * **Entering student information**: utilizing text boxes and check boxes to add information
+  * **Entering student information**: Utilizing text boxes and check boxes to add information
   * **Reset button**: If you want to start over you can reset the whole program back to the start
   * **Save button**: Saves the data to a file called "record" that writes what you picked to a text file
 
